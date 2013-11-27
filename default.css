@@ -43,3 +43,7 @@ body{
 #header{
 	border-bottom: 5px dotted #AEF74F;
 }
+
+#body{
+	margin-bottom:20px;
+}
